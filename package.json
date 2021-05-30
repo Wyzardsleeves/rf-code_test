@@ -6,7 +6,8 @@
   "author": "Justin Lattimore (Wyzardsleeves)",
   "license": "MIT",
   "scripts": {
-    "boot": "nodemon index.js"
+    "boot": "nodemon index.js",
+    "start": "node index.js"
   },
   "dependencies": {
     "inquirer": "^8.1.0"
